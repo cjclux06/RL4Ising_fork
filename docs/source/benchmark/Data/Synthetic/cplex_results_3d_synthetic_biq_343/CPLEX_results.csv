@@ -1,0 +1,4 @@
+filename,objective_value,status,runtime_seconds
+t3g7_5555.txt,-3011062.073466717,integer optimal solution,32.245
+t3g7_6666.txt,-3189700.448248637,integer optimal solution,45.819
+t3g7_7777.txt,-3066719.879878786,integer optimal solution,47.402
