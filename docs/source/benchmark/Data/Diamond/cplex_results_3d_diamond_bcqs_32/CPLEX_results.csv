@@ -1,0 +1,21 @@
+filename,objective_value,status,runtime_seconds
+N32_seed0.txt,-3.828320307517793,integer optimal solution,2.631
+N32_seed1.txt,-3.9056601117100707,integer optimal solution,4.889
+N32_seed2.txt,-3.734407688141455,integer optimal solution,4.095
+N32_seed3.txt,-3.698499921909324,integer optimal solution,6.077
+N32_seed4.txt,-3.844893122701853,integer optimal solution,5.300
+N32_seed5.txt,-3.9650460327862853,integer optimal solution,5.646
+N32_seed6.txt,-3.670878563269225,integer optimal solution,3.377
+N32_seed7.txt,-3.9208518589621253,integer optimal solution,4.926
+N32_seed8.txt,-4.329647966835599,integer optimal solution,5.009
+N32_seed9.txt,-4.202589717091141,integer optimal solution,5.288
+N32_seed10.txt,-3.8628470058179163,integer optimal solution,6.101
+N32_seed11.txt,-3.5728227400968735,integer optimal solution,5.506
+N32_seed12.txt,-3.6515436122211553,integer optimal solution,4.959
+N32_seed13.txt,-3.9885241876303708,integer optimal solution,5.496
+N32_seed14.txt,-3.3325169199280076,integer optimal solution,5.686
+N32_seed15.txt,-3.8531795302938816,integer optimal solution,4.236
+N32_seed16.txt,-3.0935921676911464,integer optimal solution,4.259
+N32_seed17.txt,-3.897373704118041,integer optimal solution,3.265
+N32_seed18.txt,-3.745456231597496,integer optimal solution,4.211
+N32_seed19.txt,-3.836606715109823,integer optimal solution,5.183
