@@ -1,0 +1,21 @@
+filename,objective_value,status,runtime_seconds
+N54_seed0.txt,-10.560235075983213,integer optimal solution,0.110
+N54_seed1.txt,-10.61020296570144,integer optimal solution,0.270
+N54_seed2.txt,-10.562361369162709,integer optimal solution,0.252
+N54_seed3.txt,-10.650602536111927,integer optimal solution,0.100
+N54_seed4.txt,-10.163681398006585,integer optimal solution,0.476
+N54_seed5.txt,-10.479435935162236,integer optimal solution,0.248
+N54_seed6.txt,-10.373121276187277,integer optimal solution,0.123
+N54_seed7.txt,-10.347605758033279,integer optimal solution,0.322
+N54_seed8.txt,-10.452857270418502,integer optimal solution,0.172
+N54_seed9.txt,-10.752664608727903,integer optimal solution,0.147
+N54_seed10.txt,-10.465615029495497,integer optimal solution,0.621
+N54_seed11.txt,-10.330595412597294,integer optimal solution,0.091
+N54_seed12.txt,-10.845158362036107,integer optimal solution,0.109
+N54_seed13.txt,-11.107755569704276,integer optimal solution,0.237
+N54_seed14.txt,-9.784138065465973,integer optimal solution,0.284
+N54_seed15.txt,-10.782432713240892,integer optimal solution,0.100
+N54_seed16.txt,-9.893642164210181,integer optimal solution,0.355
+N54_seed17.txt,-10.366742396648775,integer optimal solution,0.117
+N54_seed18.txt,-10.544287877136973,integer optimal solution,0.156
+N54_seed19.txt,-10.611266112291187,integer optimal solution,0.329
