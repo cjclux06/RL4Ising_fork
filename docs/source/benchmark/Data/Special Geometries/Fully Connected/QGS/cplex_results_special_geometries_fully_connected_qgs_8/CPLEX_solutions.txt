@@ -1,0 +1,10 @@
+N8_seed0.txt	10000000
+N8_seed1.txt	10100000
+N8_seed2.txt	00110100
+N8_seed3.txt	00011100
+N8_seed4.txt	10010000
+N8_seed5.txt	00111000
+N8_seed6.txt	00010000
+N8_seed7.txt	01001010
+N8_seed8.txt	01000111
+N8_seed9.txt	11110010

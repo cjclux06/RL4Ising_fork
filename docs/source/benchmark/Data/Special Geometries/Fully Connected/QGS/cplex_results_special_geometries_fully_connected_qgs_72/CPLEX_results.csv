@@ -1,0 +1,11 @@
+filename,objective_value,status,runtime_seconds
+N72_seed0.txt,-49.9688792038492,time limit exceeded,3606.992
+N72_seed1.txt,-53.504413109781865,time limit exceeded,3601.281
+N72_seed2.txt,-52.79730632859517,time limit exceeded,3601.232
+N72_seed3.txt,-53.033008588991066,time limit exceeded,3607.009
+N72_seed4.txt,-53.03300858899062,"integer optimal, tolerance",3307.570
+N72_seed5.txt,-51.38309276622218,time limit exceeded,3614.870
+N72_seed6.txt,-51.147390505826756,time limit exceeded,3602.122
+N72_seed7.txt,-51.61879502661774,"integer optimal, tolerance",2649.791
+N72_seed8.txt,-53.504413109782035,"integer optimal, tolerance",353.971
+N72_seed9.txt,-49.96887920384907,time limit exceeded,3603.744

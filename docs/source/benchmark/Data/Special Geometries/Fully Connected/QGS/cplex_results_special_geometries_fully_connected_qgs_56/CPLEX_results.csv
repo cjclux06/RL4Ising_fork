@@ -1,0 +1,11 @@
+filename,objective_value,status,runtime_seconds
+N56_seed0.txt,-38.75288007730158,integer optimal solution,120.671
+N56_seed1.txt,-38.75288007730152,"integer optimal, tolerance",113.668
+N56_seed2.txt,-38.48561883538912,"integer optimal, tolerance",120.093
+N56_seed3.txt,-39.82192504495124,integer optimal solution,21.710
+N56_seed4.txt,-42.76179870598789,integer optimal solution,26.068
+N56_seed5.txt,-39.02014131921396,"integer optimal, tolerance",29.521
+N56_seed6.txt,-38.48561883538911,integer optimal solution,40.184
+N56_seed7.txt,-41.42549249642579,integer optimal solution,43.349
+N56_seed8.txt,-39.28740256112637,"integer optimal, tolerance",85.543
+N56_seed9.txt,-39.55466380303869,integer optimal solution,73.061

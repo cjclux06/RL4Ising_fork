@@ -1,0 +1,11 @@
+filename,objective_value,status,runtime_seconds
+N24_seed0.txt,-17.14642819948225,integer optimal solution,6.576
+N24_seed1.txt,-17.55467648994612,integer optimal solution,5.692
+N24_seed2.txt,-16.73817990901839,integer optimal solution,7.671
+N24_seed3.txt,-15.921683328090666,integer optimal solution,10.597
+N24_seed4.txt,-15.105186747162936,integer optimal solution,7.991
+N24_seed5.txt,-15.513435037626802,integer optimal solution,10.751
+N24_seed6.txt,-18.779421361337704,integer optimal solution,7.266
+N24_seed7.txt,-17.962924780409978,integer optimal solution,9.465
+N24_seed8.txt,-16.329931618554525,integer optimal solution,7.301
+N24_seed9.txt,-14.696938456699069,integer optimal solution,7.733
